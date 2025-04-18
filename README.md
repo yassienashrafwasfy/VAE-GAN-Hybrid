@@ -9,6 +9,7 @@ This repository implements a hybrid VAE-GAN model with a U-Net discriminator for
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
+- [Training Details](#training)
 
 ## Introduction
 
@@ -27,6 +28,8 @@ The following libraries are required to run the code:
 - `warnings` – to handle warnings
 - `random` – for random seed setting
 
+## Training Details
+- the training took about [4-5] hours and the results is feasible compared to other github repos and the difficulty of the Challenge.  
 
 ## Usage
     - **Pre-trained Weights**: loading model pretrained weights using keras load model.
